@@ -41,7 +41,7 @@
 - Заголовок "Text Editor"
 - Основная область — текстовое поле на все окно
 
-![image](https://github.com/user-attachments/assets/c5cf4f82-13da-4bb1-9acf-293c306ac1e0)
+![image](https://github.com/user-attachments/assets/6abd9dd1-8d7e-4179-aaa5-a0326d9efead)
 
 ### Меню:
 - Пункт "File" с подпунктами:
@@ -50,8 +50,17 @@
   - Save
   - Save As
   - Quit (разделитель перед этим пунктом)
+    
+ ![image](https://github.com/user-attachments/assets/b0842682-dee0-4443-9da3-8990690fa800)
+
+- Пункт "Color" с подпунктами:
+  - Black
+  - Red
+  - Blue
+  - Green
   
-![image](https://github.com/user-attachments/assets/cf5667e4-72f8-44d2-a084-0a5a4d6b9970)
+![image](https://github.com/user-attachments/assets/ab288844-5170-44bc-a299-125a9a21200e)
+
 
 ---
 
@@ -76,3 +85,8 @@
 
 5. **Поиск и замена**  
    Добавление функционала поиска текста и замены.
+
+### Дополнительные функции:
+Была добавлена возможность изменения цвета выделенного текста на чёрный, красный, голубой или зелёный.
+
+![image](https://github.com/user-attachments/assets/85dbf054-da6b-488d-a38a-9724e4526bdd)
