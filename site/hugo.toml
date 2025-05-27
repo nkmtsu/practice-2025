@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = "ru"
 title = "Компьютерный практикум по математике Mathsem"
-theme = "hextra"
+theme = "papermod"
 
 [menu]
 [[menu.main]]
